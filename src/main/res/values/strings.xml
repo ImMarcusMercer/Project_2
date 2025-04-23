@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Loginapp</string>
+    <string name="login_as_landlord">Login as Landlord</string>
+    <string name="settings">Settings</string>
+    <string name="app_logo">App logo</string>
+    <string name="login_as_user">Login as User</string>
+</resources>
